@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @amner-py
+- 👀 I’m interested in IT, IoT, networks and robotic.
+- 🌱 I’m currently learning web and mobile app development
+- 📫 How to reach me:
+- E-mail:    aomarperez17@gmail.com - aomarperezy@outlook.com
+- Instagram: https://www.instagram.com/amner.py
+- Facebook:  https://www.facebook.com/amner.py
+- Telegram:  https://t.me/amner_py
+- Discord:   omar.py#4122
