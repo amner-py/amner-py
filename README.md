@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amner-py
-- 👀 I’m interested in IT, IoT, networks and robotic.
-- 🌱 I’m currently learning web and mobile app development
+- 👀 I’m like create and development with Arduino and Raspberry devices.
+- 🌱 I’m web developer with Python and learning Node.
 - 📫 How to reach me:
 - E-mail:    aomarperez17@gmail.com - aomarperezy@outlook.com
 - Instagram: https://www.instagram.com/amner.py
